@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36227.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAC.TcpService.Lib", "JAC.TcpService.Lib\JAC.TcpService.Lib.csproj", "{43C2B841-9021-4F3F-B8DF-0C1DCC6F0CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAC.TcpService.GUI", "JAC.TcpService.GUI\JAC.TcpService.GUI.csproj", "{42BD797A-D24C-4033-9C14-77728BD6DE6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAC.TcpClient.Lib", "JAC.TcpClient.Lib\JAC.TcpClient.Lib.csproj", "{88E8EB2A-3D06-4EAA-A027-CB7154D6F69C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAC.TcpClient.UI", "JAC.TcpClient.UI\JAC.TcpClient.UI.csproj", "{5D72B93D-42D7-4C4F-A824-E127C7E7095A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAC.Contracts", "JAC.Contracts\JAC.Contracts.csproj", "{C9E05014-84A8-43B8-B8C0-9B2F44656B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAC.Shared", "JAC.Shared\JAC.Shared.csproj", "{E1C68BE7-6357-486C-9440-43A2CAEF8597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C2B841-9021-4F3F-B8DF-0C1DCC6F0CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C2B841-9021-4F3F-B8DF-0C1DCC6F0CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C2B841-9021-4F3F-B8DF-0C1DCC6F0CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C2B841-9021-4F3F-B8DF-0C1DCC6F0CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42BD797A-D24C-4033-9C14-77728BD6DE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BD797A-D24C-4033-9C14-77728BD6DE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BD797A-D24C-4033-9C14-77728BD6DE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BD797A-D24C-4033-9C14-77728BD6DE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E8EB2A-3D06-4EAA-A027-CB7154D6F69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E8EB2A-3D06-4EAA-A027-CB7154D6F69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E8EB2A-3D06-4EAA-A027-CB7154D6F69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E8EB2A-3D06-4EAA-A027-CB7154D6F69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D72B93D-42D7-4C4F-A824-E127C7E7095A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D72B93D-42D7-4C4F-A824-E127C7E7095A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D72B93D-42D7-4C4F-A824-E127C7E7095A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D72B93D-42D7-4C4F-A824-E127C7E7095A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E05014-84A8-43B8-B8C0-9B2F44656B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E05014-84A8-43B8-B8C0-9B2F44656B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E05014-84A8-43B8-B8C0-9B2F44656B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E05014-84A8-43B8-B8C0-9B2F44656B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C68BE7-6357-486C-9440-43A2CAEF8597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C68BE7-6357-486C-9440-43A2CAEF8597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C68BE7-6357-486C-9440-43A2CAEF8597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C68BE7-6357-486C-9440-43A2CAEF8597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {218B3C5F-ACDA-4897-9D53-BEE4626D1B60}
+	EndGlobalSection
+EndGlobal
